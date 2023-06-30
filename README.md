@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indrani1994
 - 👀 I’m interested in language  programming  like c++, java
-- 🌱 I’m currently learning very low ammount 
+- 🌱 I’m currently learning language programming 
 - 💞️ I’m looking to collaborate on to get me a new job
 - 📫 How to reach me mail- indrani.bot2015@gmail.com
 
